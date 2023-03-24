@@ -1,0 +1,5 @@
+python3 -m venv projectenv
+source projectenv/bin/activate
+
+video = moviepy.editor.VideoFileClip("video.mp4")
+video.preview()
