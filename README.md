@@ -1,6 +1,6 @@
-# goit-python-marathon-hw-03
+# BIOLAB GOOSE
 
-## BIOLAB GOOSE
+## goit-python-marathon-hw-03
 
 This is a simple 2D game developed using Pygame, as a part of GoIT Python Marathon.
 
